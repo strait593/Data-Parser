@@ -33,4 +33,4 @@ A robust Python utility designed to parse structured JSON data and migrate it in
 1. Clone the repository:
    ```bash
    git clone [https://github.com/strait593/Data-Parser.git](https://github.com/strait593/Data-Parser.git)
-   cd Data-Parser/Task2
+   cd Data-Parser/parser
